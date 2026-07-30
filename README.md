@@ -4,3 +4,4 @@
  - Comeplte everything simply no other to do 
 - And fix spellings
 - Add logging 
+- Add prometus logger as well 
