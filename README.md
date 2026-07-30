@@ -2,3 +2,5 @@
 
 ### List of todo:
  - Comeplte everything simply no other to do 
+- And fix spellings
+- Add logging 
