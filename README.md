@@ -1,7 +1,8 @@
 # This is a test file for the OSS code rabbit alternative 
 
-### List of todo:
- - Comeplte everything simply no other to do 
+### List of to-dos:
+ - Complete everything; simply no other to do 
 - And fix spellings
 - Add logging 
-- Add prometus logger as well 
+- Add prom client
+- Add Pino logger
